@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # 1) Import from your other files
-from data_scraper import scrape_reddit, scrape_twitter
+from data_scraper import scrape_reddit
 from sentiment_analysis import process_feedback
 
 def generate_wordcloud(text_data):
@@ -19,7 +19,7 @@ def main():
     st.subheader("Visualising balance concerns in games")
 
     # 2) Scrape data
-    feedback_data = scrape_reddit() + scrape_twitter()
+    feedback_data = scrape_reddit()
 
     # 3) Process sentiment
     processed_data = process_feedback(feedback_data)
