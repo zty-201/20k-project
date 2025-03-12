@@ -16,11 +16,67 @@ REDDIT_CLIENT_SECRET = "I4fqPd_4or5crt50Lj9p9U4iOYzy5Q"
 REDDIT_USER_AGENT = "GameBalanceAI/0.1 by Miju"
 reddit = praw.Reddit(client_id=REDDIT_CLIENT_ID, client_secret=REDDIT_CLIENT_SECRET, user_agent=REDDIT_USER_AGENT)
 
-def scrape_reddit(subreddit="gaming", query="balance patch", limit=50):
-    posts = []
-    for post in reddit.subreddit(subreddit).search(query, limit=limit):
-        posts.append({"source": "Reddit", "text": post.title + " " + post.selftext})
-    return posts
+def scrape_reddit(subreddit="leagueoflegends", queries=None, limit=50):
+    """
+    Scrape Reddit posts based on categorized search queries
+    
+    Args:
+        subreddit (str): Subreddit to search
+        queries (dict): Dictionary where keys are categories and values are lists of queries
+        limit (int): Maximum posts per query
+        
+    Returns:
+        dict: Posts grouped by categories and flattened list
+    """
+    if queries is None:
+        # Default categorized queries
+        queries = {
+            "General Balance Feedback": ["balance patch", "game balance"],
+            "Patch-Specific Feedback": ["patch notes", "latest patch"],
+            "Champion-Specific Issues": ["champion nerf", "champion buff", "overpowered"],
+            "Pro Play Balance Impact": ["pro play balance", "esports balance"],
+            "Role-Based Complaints": ["adc weak", "jungle diff", "support carry"]
+        }
+    
+    categorized_posts = {category: [] for category in queries.keys()}
+    total_posts = 0
+    
+    for category, query_list in queries.items():
+        print(f"Collecting data for category: {category}")
+        
+        for query in query_list:
+            try:
+                print(f"  Searching r/{subreddit} for: '{query}'")
+                query_count = 0
+                
+                for post in reddit.subreddit(subreddit).search(query, limit=limit):
+                    post_data = {
+                        "source": "Reddit",
+                        "category": category,
+                        "query": query,
+                        "subreddit": subreddit,
+                        "title": post.title,
+                        "text": post.title + " " + post.selftext,
+                        "score": post.score,
+                        "url": f"https://reddit.com{post.permalink}",
+                        "created_utc": post.created_utc
+                    }
+                    categorized_posts[category].append(post_data)
+                    query_count += 1
+                    total_posts += 1
+                
+                print(f"    Found {query_count} posts for query '{query}'")
+                # Add a small delay between queries to avoid rate limiting
+                time.sleep(random.uniform(0.5, 1.5))
+                
+            except Exception as e:
+                print(f"    Error searching for '{query}': {str(e)}")
+    
+    print(f"Total posts collected: {total_posts}")
+    
+    # Also return a flattened list for backward compatibility
+    flattened_posts = [post for posts in categorized_posts.values() for post in posts]
+    return categorized_posts, flattened_posts
 
 # Twitter API setup
 TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAABeLzwEAAAAA7Ox%2FTmDK4v5U2g2qtt6oiygVIwo%3DCJsrmcgqsSM8RmQuGU48xGQY7EmdxPM0JUYW0BAqHnmWPRRzEZ"
