@@ -6,3 +6,5 @@ matplotlib
 streamlit
 wordcloud
 sqlite-utils
+selenium
+webdriver-manager
