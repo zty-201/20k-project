@@ -1,0 +1,7 @@
+praw
+tweepy
+nltk
+sklearn
+matplotlib
+streamlit
+wordcloud
