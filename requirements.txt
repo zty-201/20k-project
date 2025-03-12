@@ -1,7 +1,8 @@
 praw
 tweepy
 nltk
-sklearn
+scikit-learn
 matplotlib
 streamlit
 wordcloud
+sqlite-utils
