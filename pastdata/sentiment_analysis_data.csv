@@ -1,10 +1,10 @@
-source,text,sentiment,Champion,Win Rate,Pick Rate
+source,text,sentiment
 Reddit,"Can someone explain this to me? I don't get the argument of ""its a PvE game, the devs shouldn't need to balance It or release patch notes""  I've seen this alot of times on various PvE subreddits. When something that was very good in that game gets nerfed, people usually say something like ""why are the devs so focused on nerfing things in a PvE game?"" Or ""who complained about this being OP, the NPCS?"" 
 
 I don't get this viewpoint. If the devs designed a PvE games items, guns, cars tools, etc. to be balanced alongside each other, and make each have their own advantages and drawbacks, then they have every right to correct a mistake, like say an OP M4 that one shots all NPC enemies across all ranges, compared to the other assault rifles that have 3-4 shots to kill (extreme example, but you get what I mean). 
 
-Some people argue that if you don't want the game to be a cakewalk, don't use the OP thing. But then it's basically just nerfing yourself in a video game to keep the balance that the devs themselves should've kept. ",-0.6993,,,
-Reddit,"What’s a game that came out in the last five years and was very successful but lost the player base due to strange balancing decisions post launch? There was some game I played that I remember was very popular and then almost immediately died to the developer stating that the final product wasn’t close to their vision and made balance patches that the community hated, causing a mass exodus of players. I’m struggling to remember the name of the game.",-0.8497,,,
+Some people argue that if you don't want the game to be a cakewalk, don't use the OP thing. But then it's basically just nerfing yourself in a video game to keep the balance that the devs themselves should've kept. ",-0.6993
+Reddit,"What’s a game that came out in the last five years and was very successful but lost the player base due to strange balancing decisions post launch? There was some game I played that I remember was very popular and then almost immediately died to the developer stating that the final product wasn’t close to their vision and made balance patches that the community hated, causing a mass exodus of players. I’m struggling to remember the name of the game.",-0.8497
 Reddit,"Actual statistics and facts of League of Legends F2P and Paid nerfs I saw [post like this](https://old.reddit.com/r/gaming/comments/1i0l01k/league_of_legends_players_estimates_that_it_takes/) and thought to myself to paint the entire picture of what is happening.  
   
 &nbsp;
@@ -136,16 +136,16 @@ They even changed their FAQ page as the patch went out. [Old](http://web.archive
 
 &nbsp;
 
-**Edit 2:** They are [finally ready to fix the first part of the problems](https://www.leagueoflegends.com/en-gb/news/dev/blue-essence-and-account-xp-update/). On 6th of feb...better late than enver i guess.",-0.4876,,,
+**Edit 2:** They are [finally ready to fix the first part of the problems](https://www.leagueoflegends.com/en-gb/news/dev/blue-essence-and-account-xp-update/). On 6th of feb...better late than enver i guess.",-0.4876
 Reddit,"What balance patches would you give the game ""Monopoly?"" Me and my brother were talking about how good the game Monopoly is despite it being severely unbalanced. It got me wondering what you guys would put in order to balance the game better. 
 
-The only things my brother and I could think of were nerfing the red and orange properties and buffing the utility and railroad companies. But even then we couldn't agree on an exact amount.",0.2441,,,
+The only things my brother and I could think of were nerfing the red and orange properties and buffing the utility and railroad companies. But even then we couldn't agree on an exact amount.",0.2441
 Reddit,"Company of Heroes 3 is pretty amazing now! After the terrible release of the unfinished game last year that left most players very disappointed, I’ve also walked away from the game to wait and see if things get better. 
 
 Since there have been quite a few updates and patches in the past year and as things are getting stable now, I got back into the game a weeks ago to gave it another try, and I wanna say the game is pretty amazing now! Almost all problems we saw from the early release were fixed and now we have a well polished well balanced WWII competitive RTS game as it is suppose to be, with a very interesting single player campaign. 
 
-It is nice to see the player count improving but it is definitely far from justifying the game quality at the moment, thus I think some advocates for the game is nice. If you are waiting to get back to it or is looking for a tactical RTS game to play, I would certainly recommend give it a try now! ",0.9841,,,
-Reddit,"Blizzard releases a huge patch to Warcraft III after 15 years - widescreen support, hero balance changes, map updates and more! ",0.8356,,,
+It is nice to see the player count improving but it is definitely far from justifying the game quality at the moment, thus I think some advocates for the game is nice. If you are waiting to get back to it or is looking for a tactical RTS game to play, I would certainly recommend give it a try now! ",0.9841
+Reddit,"Blizzard releases a huge patch to Warcraft III after 15 years - widescreen support, hero balance changes, map updates and more! ",0.8356
 Reddit,"Gamers need to unite- PLEASE READ- (Microtransactions) CLICK HERE FOR PETITION https://goo.gl/n2tMb6 
 ""Adapt gambling laws to include gambling in video games, which target children.""
 
@@ -173,23 +173,23 @@ Arguably Skyrim SE, and Fallout 4's Creation Club has struck attention from the 
 
 In conclusion, I don't know about any of you, but its been a while since i have really jumped on a new game. What I am asking is, Share this message, write poor reviews, don't buy into the micro transactions, even dont buy the games if you can help it. Until such practices are less or totally gone. We did it for For Honor, And we did it for ESO, We even did it for the first round of paid mods on Steam. We can do it for this gamers!! Stop unfair game inclusions of pay to win material! Stop the paywalls!!
 
-Edit: I have revised my post by adjusting to the overall stance that the community has, and to be more specific and detailed as well as to try and be more inclusive and fair. Thank you for all the comments and constructive criticism. Keep it coming!!!",0.9978,,,
-Reddit,"Star Wars Battlefront patch adds new maps, somewhat balances A-Wing ",-0.7003,,,
+Edit: I have revised my post by adjusting to the overall stance that the community has, and to be more specific and detailed as well as to try and be more inclusive and fair. Thank you for all the comments and constructive criticism. Keep it coming!!!",0.9978
+Reddit,"Star Wars Battlefront patch adds new maps, somewhat balances A-Wing ",-0.7003
 Reddit,"How do you feel about any PvE games getting balance patches? When I say balance patches, it's what you expect: Buffs and nerfs to aspects of the game to make it more enjoyable. PvP balance is to make sure everyone is on a level playing field and that nothing is too broken or too weak. But how does this apply to PvE? It's only players going against bots so why does it matter if players are overpowered? It's the most common argument against PvE getting any kind of balance patches and I feel like this falls flat hard for multiple reasons.  
 
 
 The point of balance patches is to, like stated earlier, change parts of the game to make sure nothing is too weak or too OP. So what happens if there's a consistent OP strategy that everyone can easily do? People abuse that strategy for easy wins, this gets even worse in Co-op games as now you will always see people running the same strategy. Let's take Payday 2 as an example, they have a history of reworking and changing skills so they can become not only viable and fun but also not broken. Silencer skills are too powerful and common? Remove the important one that buffs damage and compensate by buffing every gun's damage. Now how about the Binding of Isaac? Let's buff underused characters and items to make them more fun to play with.  
 
 
-Balancing PvE games is just as important as PvP games, but for different reasons. PvP balances are to make sure everyone's on a leveled playing field while PvE balances are focused on making gameplay diverse and challenging. I might be the only person that thinks this, but I want to know how you feel about it.",0.9843,,,
-Reddit,Starcraft 2 race win percentages.  ,0.5859,,,
-Reddit,Global Agenda now free to play! Patch 1.4 is here with some major upgrades as well as bug and balance fixes. Come play! ,0.8684,,,
-Reddit,"With SC2 patch 1.1 doing almost nothing to fix the balance issues, I am considering buying Civ 5. Is the multiplayer any good? I will not touch the campaign.  ",0.4404,,,
-Reddit,"If World History Consisted of Balance Patch Notes, What Would it Look Like? ",0.3612,,,
-Reddit,Earth's Wort Balance Patch (evolution examined like a metagame) ,0.3612,,,
-Reddit,A new PTR patch of “Overwatch” including a large balance adjustment of Lucio is delivered ,0.0,,,
-Reddit,Dawn of War 3 gets further balance changes in 27 June patch ,-0.5994,,,
-Reddit,Demo Version & Game Balance (patch 0.12) ,0.0,,,
+Balancing PvE games is just as important as PvP games, but for different reasons. PvP balances are to make sure everyone's on a leveled playing field while PvE balances are focused on making gameplay diverse and challenging. I might be the only person that thinks this, but I want to know how you feel about it.",0.9843
+Reddit,Starcraft 2 race win percentages.  ,0.5859
+Reddit,Global Agenda now free to play! Patch 1.4 is here with some major upgrades as well as bug and balance fixes. Come play! ,0.8684
+Reddit,"With SC2 patch 1.1 doing almost nothing to fix the balance issues, I am considering buying Civ 5. Is the multiplayer any good? I will not touch the campaign.  ",0.4404
+Reddit,"If World History Consisted of Balance Patch Notes, What Would it Look Like? ",0.3612
+Reddit,Earth's Wort Balance Patch (evolution examined like a metagame) ,0.3612
+Reddit,A new PTR patch of “Overwatch” including a large balance adjustment of Lucio is delivered ,0.0
+Reddit,Dawn of War 3 gets further balance changes in 27 June patch ,-0.5994
+Reddit,Demo Version & Game Balance (patch 0.12) ,0.0
 Reddit,"Choices matter hell... I have a very big issue with this type of games.
 
 It's not a rule, but more often than not it completely breaks the game for me.
@@ -209,9 +209,9 @@ If I am being completely honest, I would also have to blame my OCD, for wanting 
 Anyone else out there, with similar issues?   
 
 Edit: based on early comments, I want to elaborate.  
-For me it would be a much better game design if your choices dictate on which side of the situation/discussion, your character ends up, not completely lock you out of certain content.",-0.1801,,,
-Reddit,What games suffered from balance issues before the ability to patch? ,-0.2263,,,
-Reddit,Balance Patch [Nerf Now] ,0.0,,,
+For me it would be a much better game design if your choices dictate on which side of the situation/discussion, your character ends up, not completely lock you out of certain content.",-0.1801
+Reddit,What games suffered from balance issues before the ability to patch? ,-0.2263
+Reddit,Balance Patch [Nerf Now] ,0.0
 Reddit,"""Black Myth: Wukong"" Review. It's alright! tl;dr: Bad level design, shaky stability, great gameplay and good bosses over a surprisingly long but well-paced period. The story is very hard to track if you're not familiar with JttW. I'd still recommend on just the merits of the gameplay and bosses, and it'll be an excellent game to get on sale.  
   
 Every now and again there's a game that comes out that has so many conflicting opinions that you just have to play it for yourself to establish your own feelings about it. Wukong is absolutely one of those games. I've not seen the same opinion about it from anybody, and so I'm throwing in yet another perspective into the ring. This is going to be a spoiler free review.
@@ -249,21 +249,21 @@ The gameplay for most bosses is solid, but not excellent. Bosses have inconsiste
   
 That said, their difficulty feels very solidly toned, leaning on the easier side, and most bosses react extremely well to you changing up your strategy. There were a good few fights where I tried about 5 times, felt I was lacking, changed up my gear and tree to try something I'd never used, and crushed on the next attempt. That feeling of the game responding to changes in strategy is one of its strongest, and reminds me a lot of Thymesia (a game I love). There's definitely a few difficult bosses, and I appreciated how the game's spectacle ramped up as it went. 
 
-Overall: It's alright! It's leaning a lot on the player-side gameplay for me. I don't think the actual bosses hold up that well, and the story and level design definitely won't be why I come back, but as the game took me 60 hours I don't think I'll need to return. It's satisfying, and I can recommend it if anything above seemed appealing, or you're even slightly more familiar with Journey to the West than I am. For devs as inexperienced as these, for what they made, it's impressive. But, if you're someone who's looking at this as just a product, I think it's only worth it if you're deeply curious about the game, are extremely familiar with Sun Wukong's story, or if it's on sale. ",0.9992,,,
-Reddit,"Upcoming StarCraft 2 patch 1.1 balances Zerg, Protoss, Terran and southpaws ",0.0,,,
-Reddit,Darkfall Online MAJOR Content/Balancing Patch ,0.0,,,
-Reddit,"WoW Patch 5.0 Balance Druid / Boomkin Quick-Start Guide – Stats, talents and spec, glyphs, rotation, reforging and gems, and ability priorities ",0.8442,,,
-Reddit,"inbefore Blizzard patches Diablo 3, destroys balance and ruins your favorite class. RIP Nova Sorceress",-0.5423,,,
-Reddit,"SoulCalibur 5 getting balance patch March 21, monthly costume DLC starting in April ",0.0,,,
-Reddit,Massive Changelog for Battlefield 3′s Upcoming Patch; lots of balance tweaks in weapons and vehicles ,-0.6705,,,
-Reddit,"Time to Buy Civ 5: Patch 1.0.1.332 Key Improvements, Balancing, Crash to Desktop and Error Fixes ",-0.4767,,,
+Overall: It's alright! It's leaning a lot on the player-side gameplay for me. I don't think the actual bosses hold up that well, and the story and level design definitely won't be why I come back, but as the game took me 60 hours I don't think I'll need to return. It's satisfying, and I can recommend it if anything above seemed appealing, or you're even slightly more familiar with Journey to the West than I am. For devs as inexperienced as these, for what they made, it's impressive. But, if you're someone who's looking at this as just a product, I think it's only worth it if you're deeply curious about the game, are extremely familiar with Sun Wukong's story, or if it's on sale. ",0.9992
+Reddit,"Upcoming StarCraft 2 patch 1.1 balances Zerg, Protoss, Terran and southpaws ",0.0
+Reddit,Darkfall Online MAJOR Content/Balancing Patch ,0.0
+Reddit,"WoW Patch 5.0 Balance Druid / Boomkin Quick-Start Guide – Stats, talents and spec, glyphs, rotation, reforging and gems, and ability priorities ",0.8442
+Reddit,"inbefore Blizzard patches Diablo 3, destroys balance and ruins your favorite class. RIP Nova Sorceress",-0.5423
+Reddit,"SoulCalibur 5 getting balance patch March 21, monthly costume DLC starting in April ",0.0
+Reddit,Massive Changelog for Battlefield 3′s Upcoming Patch; lots of balance tweaks in weapons and vehicles ,-0.6705
+Reddit,"Time to Buy Civ 5: Patch 1.0.1.332 Key Improvements, Balancing, Crash to Desktop and Error Fixes ",-0.4767
 Reddit,"BFBC2 post patch auto team balance So I just tried playing BFBC2 last night after the patch hit last week with two of my friends.  I joined up a game with them already in progress and noticed no matter how hard I tried I could not join to their team, even if the teams were balanced.  I would just get an error that I could not join the other team because the other team had too many people.
 
 We tried another server, I joined a server first and the other two followed, the other two were made to join the other team and couldnt switch.
 
 Am I missing something or is this seriously how the game is now?  The game sold on steam with a 4 pack, has squads of 4, but you cannot play together with 4 of your friends because of the auto-team balance.
 
-Are there servers with auto team balance turned off?  It doesn't appear that is something that you can search on in the server browser though...",0.3637,,,
+Are there servers with auto team balance turned off?  It doesn't appear that is something that you can search on in the server browser though...",0.3637
 Reddit,"Amazing Games Abandoned By Developers! Honestly, Blizzard are the kings of this.
 
 Heroes of the Storm. 
@@ -292,8 +292,8 @@ Liked this game on release, but it had HUGE problems. Crap balance, wonky diffic
 
 Then they added the absolutely brilliant Worldslayer expansion, with something that was basically a single player raid instance that may be the finest concept for an endgame I'd in ages.
 
-No other content was ever released.",0.986,,,
-Reddit,"Before getting back into turn 944 of an epic Civ V game, Steam automatically applies the latest patch... ",0.0,,,
+No other content was ever released.",0.986
+Reddit,"Before getting back into turn 944 of an epic Civ V game, Steam automatically applies the latest patch... ",0.0
 Reddit,"My Super Meat Boy experience There has been a lotta criticism and collective MEH directed at Super Meat Boy, a game I had preordered and was looking quite forward to. Over the last few hours I can safely report this criticism is totally unfounded by people who must have played simply a demo, watched a video, or just plain want to bitch.
 
 I started off charmed by the visuals, impressed by the soundtrack, and totally pissed that a game that whispers to me that joystick is better (and it really is) only supports one joystick. WTF Team Meat? Anyways after fiddling with 360 controller emulator with little hassle I dove right in.
@@ -316,13 +316,13 @@ The achievements aren't given out without actually achieving something. I felt r
 The game is really great and I did my best to convey my experience thus far without spoiling anything. I spent 40-50 dollars on new steam games for thanksgiving, but this is the only one I'm currently playing. It's my #2 for GOTY second only to Amnesia... I recommend it and I wish the best for Team Meat. (but seriously patch that fucking 360 joystick shit)
 
 
-edit: for all you logitechers http://code.google.com/p/x360ce/downloads/detail?name=x360ce.App-2.0.2.94.zip&can=2&q=",0.9951,,,
+edit: for all you logitechers http://code.google.com/p/x360ce/downloads/detail?name=x360ce.App-2.0.2.94.zip&can=2&q=",0.9951
 Reddit,"Patch 5 is now available for Baldur’s Gate 3 https://baldursgate3.game/news/patch-5-now-live_99
 
-This is a huge patch that may solve a lot of issues with act 3, adds new difficulty modes, adds an epilogue for the game, makes a certain character recruitable by good aligned players, tons of gameplay balances, bug fixes, animation fixes, and quality of life changes.",0.6908,,,
+This is a huge patch that may solve a lot of issues with act 3, adds new difficulty modes, adds an epilogue for the game, makes a certain character recruitable by good aligned players, tons of gameplay balances, bug fixes, animation fixes, and quality of life changes.",0.6908
 Reddit,"Do you think there will be any news about more Armored Core content on 6/21 qhen Elden Ring's DLC drops or do you think it's just a fun reference? Saw a comment on a post about ""same ten questions every week"" so I figured to offer a new question. With the lack of balance or new parts in the latest patch for Armored Core VI: Fires of Rubicon, players are wondering what's in store next.
 
-I think they'll stick to their old formula and rather than make any true DLC like Elden Ring, we'll get a 6.5 which carries over parts, save data, and builds while adding new missions, parts, fights, etc. ",0.7783,,,
+I think they'll stick to their old formula and rather than make any true DLC like Elden Ring, we'll get a 6.5 which carries over parts, save data, and builds while adding new missions, parts, fights, etc. ",0.7783
 Reddit,"Ultimatum before i quit BF2042  Dev's or decision makers wont read this, i'll post this anyways.
 
 After having spend well over 250hrs in the game, grinding multiple T1 skins and ranks for Gadgets, weapons, Specialist etc. After grinding to lvl S0028 (which isnt the highest i have seen), i have enough.
@@ -335,7 +335,7 @@ But then i realized one thing; this is a live service game. And idea of live ser
 
 I'll keep playing until march, and i'll keep trashing this game online until march as well. Because its my right as costumer having spend money on this.
 
-Why i post this here? Because i cant post anything in r/battlefield2042 anymore, and i had to vent. Sorry.",-0.6635,,,
+Why i post this here? Because i cant post anything in r/battlefield2042 anymore, and i had to vent. Sorry.",-0.6635
 Reddit,"I've been ''aging'' games that I want to play and it's been an fantastic experience. We live a time where people jump on the hype train the moment a game's out and for a long time I did the same as well. Games like Fallout 4, Witcher 3 etc., I was there all for them on day one.
 
 However, like many people I find day one experiences to be mostly buggy and unbalanced, it's been bothering me but never enough to deter me from not jumping the day one train. Until one day I choose to replay Witcher 3 again 2 years after its launch and realized just how insanely polished it's become compared to the launch version, it actually made me regret playing it day one knowing a lot of bugs and issues I had with the game are nowhere to be seen after 2 years. The same thing happened to me when I replay Bloodborne as well, the post Old Hunters DLC version is so much more polished and balanced than the day one version.
@@ -350,10 +350,10 @@ I haven't even bought Elden Ring and I'm a huge FromSoftware fanboy. In fact thi
 
 The Recent 1.03 patch for Elden Ring added NPC tracker on map as well as fixing broken OP weapons kind of proves my point that patience pays off. I can't wait for Elden Ring when it's fully aged like a fine wine.
 
-TL;DR - Instead of playing Cyberpunk 2077 day one cause ''OMG HYPE!!'' it will serve you much better to play it a year later instead. Playing a game on day one is like moving into a house that's still being painted and decorated, yes it's still a functioning house but why not wait for a year and then enjoy a much more refined living experience?",0.9972,,,
+TL;DR - Instead of playing Cyberpunk 2077 day one cause ''OMG HYPE!!'' it will serve you much better to play it a year later instead. Playing a game on day one is like moving into a house that's still being painted and decorated, yes it's still a functioning house but why not wait for a year and then enjoy a much more refined living experience?",0.9972
 Reddit,"People who've played Fallout 76: should I eventually get in on the game? Ever since playing Fallout 3 I've been a Nuka Cola loving Wastelander ever since. I'm relieved after hearing the fallout (tee-hee) of Bethesda's latest game that I didn't purchase it right away; I had reservations already considering it was multi-player exclusive. But with all games of this type, patches and updates eventually follow and the game gameplay wise should balance out.
 
-In your opinion, should I get in on Fallout 76? Aside from the bugs which I assume will eventually be patched how is it otherwise? Are players a reasonable amount of toxic versus say, an average CoD lobby. How's overall functionality and mechanics? I kinda want to give it a chance but I'm not sure. Any insight and opinions are much appreciated!",0.9491,,,
+In your opinion, should I get in on Fallout 76? Aside from the bugs which I assume will eventually be patched how is it otherwise? Are players a reasonable amount of toxic versus say, an average CoD lobby. How's overall functionality and mechanics? I kinda want to give it a chance but I'm not sure. Any insight and opinions are much appreciated!",0.9491
 Reddit,"What is your most unpopular, witch-hunt inducing opinion/fact about a game? Mine?
 
 ""Competitive"" Smash is a fucking joke.
@@ -376,7 +376,7 @@ Last of Us is one of the most predictable/boring games of last/this generation?
 
 What is it?
 
-Lookin' forward to feeding off that sweet, sweet rage!",0.6853,,,
+Lookin' forward to feeding off that sweet, sweet rage!",0.6853
 Reddit,"Is it just me or new games generally suck? Every indie game out there is cheap ""attempts"" made by drunk undergraduate students whom want some pot money.
 
 &#x200B;
@@ -399,7 +399,7 @@ And where is elder scrolls 6 huh? Nobody asked for another shit Bethesda title, 
 
 &#x200B;
 
-I can go on all day but I would like to hear(or at least read) another soul's thoughts on this matter.",-0.6816,,,
+I can go on all day but I would like to hear(or at least read) another soul's thoughts on this matter.",-0.6816
 Reddit,"What caused my game to crash? (Mount and Blade 2: Bannerlord)  
 
 I was just finished setting up my troops on the battle map and then my game crashed.
@@ -559,22 +559,22 @@ CallStack:
 
 <PresetModule Id=""CustomSpawns"" RequiredVersion=""v1.9.5"" URL="""" />
 
-<PresetModule Id=""CalradiaAtWar"" RequiredVersion=""v1.9.1"" URL="""" />",-0.128,,,
-Reddit,"New Releases are getting worse and worse When a game releases, 9 times out of 10 they are just straight up unfinished. I just uninstalled Elden Ring because it feels like they left in placeholder values for enemy balance past Leyndell. The game is literally ruined for me. I tried finishing the Skywalker Saga, but that game is buggy as shit too. Like seriously I swear to god they didn't even fucking play test this garbage. If you're gonna release a game unfinished, why the fuck do they not patch it ASAP??? That's the first thing you do. TT Games, I don't care AT ALL about DLC characters. Fix your game first. Fromsoft, I don't want to play your game if you only make half of it. Believe it or not I don't want to have to bash my head against Malenia and deal with arbitrarily bullshit balance after I've spent over 100 hours in your game. NOBODY WANTS YOU TO RELEASE AN UNFINISHED GAME. I don't even know what to do at this point. There is nothing I can do to fix this. I'm so angry. I wait and wait and wait for a game to release, only to find that its NOT FUCKING DONE?????",-0.9876,,,
-Reddit,Got no mans sky early. Thanks UPS. ,0.1779,,,
+<PresetModule Id=""CalradiaAtWar"" RequiredVersion=""v1.9.1"" URL="""" />",-0.128
+Reddit,"New Releases are getting worse and worse When a game releases, 9 times out of 10 they are just straight up unfinished. I just uninstalled Elden Ring because it feels like they left in placeholder values for enemy balance past Leyndell. The game is literally ruined for me. I tried finishing the Skywalker Saga, but that game is buggy as shit too. Like seriously I swear to god they didn't even fucking play test this garbage. If you're gonna release a game unfinished, why the fuck do they not patch it ASAP??? That's the first thing you do. TT Games, I don't care AT ALL about DLC characters. Fix your game first. Fromsoft, I don't want to play your game if you only make half of it. Believe it or not I don't want to have to bash my head against Malenia and deal with arbitrarily bullshit balance after I've spent over 100 hours in your game. NOBODY WANTS YOU TO RELEASE AN UNFINISHED GAME. I don't even know what to do at this point. There is nothing I can do to fix this. I'm so angry. I wait and wait and wait for a game to release, only to find that its NOT FUCKING DONE?????",-0.9876
+Reddit,Got no mans sky early. Thanks UPS. ,0.1779
 Reddit,"Why can’t developers make better anti-cheat software? This is a question I’ve been wondering for a long time.
 
 If you look at some gameplay footage from someone who is cheating, you can almost instantly tell that that person is using cheats.
 
 So why is it so difficult to make an algorithm that detects the same thing as what you’re seeing?
 
-All in all, I hope all cheaters die of suffocation",-0.9001,,,
-Reddit,"2010-2018 is the golden era of First person shooters I believe first person shooters peaked from 2010-2018. Those games came out polished, somewhat balanced, and just seems more complete than the games we get today. Call of duty black ops, battlefield 3, MW3, battle field 4, syndicate. These games either had great story, great gameplay, and had hours of fun. I’m not saying they were perfect because obviously they had their bugs, glitches, and what not but damn it, with the over reliance of day 1 patches and massive “updates” to implement cut content due to crunch constraints, I dont see any improvement upon games releasing. Not unless the developers take the amount of time they need in order to release the game that they make. Hindsight is 20/20 and the fact we have so many “remake and remasters” flooding the market it shows a lack of creativity, and hopefully we get to see some really cool stuff or we are doomed to repeat what we have already played.",0.7722,,,
+All in all, I hope all cheaters die of suffocation",-0.9001
+Reddit,"2010-2018 is the golden era of First person shooters I believe first person shooters peaked from 2010-2018. Those games came out polished, somewhat balanced, and just seems more complete than the games we get today. Call of duty black ops, battlefield 3, MW3, battle field 4, syndicate. These games either had great story, great gameplay, and had hours of fun. I’m not saying they were perfect because obviously they had their bugs, glitches, and what not but damn it, with the over reliance of day 1 patches and massive “updates” to implement cut content due to crunch constraints, I dont see any improvement upon games releasing. Not unless the developers take the amount of time they need in order to release the game that they make. Hindsight is 20/20 and the fact we have so many “remake and remasters” flooding the market it shows a lack of creativity, and hopefully we get to see some really cool stuff or we are doomed to repeat what we have already played.",0.7722
 Reddit,"What's a concern or game mechanic that is a common pet peeve for most gamers but doesn't bother you very much? For me, the two things that come to mind are unbalanced characters/weapons etc in multiplayer games, and random encounters in RPGs.
 
 As for balancing, I've found that most of the time the effects of the overpowered thing are usually not that detrimental to overall play, and often times the resulting patches totally overcorrect for it. Often times the ""unbalanced"" abilities actually serve to make the overall game have more dynamism and variety, since they force players to actually change their strategy and ensure a tangible difference between choices that the players make. good example of this is many of the guns in cod4. some guns like the m16, mp5, deagle and m40a3 are objectively better than many of their counterparts, and others, such as the shotguns, lower level SMGs and LMGs are by most metrics worse than the average gun. this combined with the map design actually forces players to switch the guns that they're using depending on the situation, rather than having 30 weapons that all have relatively comparable damage and can be used on every map. 
 
-even though i don't play RPGs very often at all, whenever i do play games such as ff7 and pokemon i never really have a big issue with persistent random encounters. if the combat system is fun enough, i can stomach the grinding.",0.9357,,,
+even though i don't play RPGs very often at all, whenever i do play games such as ff7 and pokemon i never really have a big issue with persistent random encounters. if the combat system is fun enough, i can stomach the grinding.",0.9357
 Reddit,"OSWoW | Custom Vanilla🍦 Project | Launching new realm 16th Feb 16:00 GMT+1 ###Old School WoW is set to launch a new realm on the 16th of Feb 16:00 GMT+1! The project has been in developement for almost 3 years and we wish to extend our thanks to everyone that helped us out during the developement stage!
 
 NOTE: All characters created on your account during the first week of the new realm being launched will get a free 10 slot Azure Rucksack.
@@ -676,7 +676,7 @@ Is there a connection guide?
 
 - Yes, both on the [website](https://oswow.net/) and on our [discord](https://discord.gg/k8JKdQGtPn).
 
-If you have any more questions. You can visit our [website](https://oswow.net/) or join our [discord](https://discord.gg/k8JKdQGtPn) channel.",0.9957,,,
+If you have any more questions. You can visit our [website](https://oswow.net/) or join our [discord](https://discord.gg/k8JKdQGtPn) channel.",0.9957
 Reddit,"The Elder Scrolls Online is GOOOOD. If you are on the fence about ESO or if all you've heard is negative comments/reviews from months ago, you are missing out.  With yesterday's update, this feels like a whole new game.
 
 ESO is a unique gaming experience incorporating gameplay elements from GW2, DAOC and even Skyrim.  The crafting system is one of a kind and maybe the most fun element of the entire game.
@@ -691,8 +691,8 @@ It's not too late.  Get it on Steam and come try it out.  You won't regret it.
 
 TL;DR
 
-ESO is much improved since launch.  Buy it now.",0.9817,,,
-Reddit,TIE Fighter Total Conversion (TFTC) Version 1.3 Released! ,0.2244,,,
+ESO is much improved since launch.  Buy it now.",0.9817
+Reddit,TIE Fighter Total Conversion (TFTC) Version 1.3 Released! ,0.2244
 Reddit,"The gold old days of quality games....(btw sorry for the rant post) So is it just me or has the quality of AAA games seem to have gone down over the past few years? Like when was the last AAA game that was made that didnt have a day 1 patch or additional ""DLC"" that was an add-on but was really just a way to get more money for finishing a game. 
 
 Maybe it's an unpopular opinion but would you rather a complete finished and semi-polished game to start even if it wasnt completely balanced or would you rather pay for a game that has so much in it that it just never feels complete and constantly needs patches, balancing, DLC, etc.
@@ -703,175 +703,69 @@ Back in my day the only meta you had to worry about was metaknight in brawl lol 
 
 I just miss the days of running to Toys R Us, going to the video game zone and buying my games coming home and having a completed game to start(minus some glitches/bugs/etc.) That were normal and nowhere near as bad as modern bugs or glitches. Goldeneye had odd job- nobody liked playing against that person but there were counters that didnt completely change the game or change the way u had to play. All smash games have an OP or meta level player but to unleash that typically took skill or there was a counter strategy in other characters(jigglypuff in SSB was pretty OP if you could master her) but took skill or you learn what that OP characters weakness is and work your strategy to the advantage. Just reminds me of how my brother always played as samus and would wreck from a distance, just meant I had to learn a better close contact fighting or when he was DK had to get better control of Ness's PK thunder to keep him at a distance.
 
-Maybe I'm just ranting, maybe im just older and have become a shittier gamer, or maybe I just am old and crotchety and dont like change but if you ask me I would rather a GC or even Wii level graphics game that's complete, doesnt need constant updates and always has a way to make you keep on paying for it.",0.979,,,
-Reddit,There were about another dozen boxes right up front ,0.0,,,
-OP.GG,Annie has a Unknown% win rate and a Unknown% pick rate.,0.5859,Annie,Unknown,Unknown
-OP.GG,Olaf has a Unknown% win rate and a Unknown% pick rate.,0.5859,Olaf,Unknown,Unknown
-OP.GG,Galio has a Unknown% win rate and a Unknown% pick rate.,0.5859,Galio,Unknown,Unknown
-OP.GG,Twisted Fate has a Unknown% win rate and a Unknown% pick rate.,0.5859,Twisted Fate,Unknown,Unknown
-OP.GG,Xin Zhao has a Unknown% win rate and a Unknown% pick rate.,0.5859,Xin Zhao,Unknown,Unknown
-OP.GG,Urgot has a Unknown% win rate and a Unknown% pick rate.,0.5859,Urgot,Unknown,Unknown
-OP.GG,LeBlanc has a Unknown% win rate and a Unknown% pick rate.,0.5859,LeBlanc,Unknown,Unknown
-OP.GG,Vladimir has a Unknown% win rate and a Unknown% pick rate.,0.5859,Vladimir,Unknown,Unknown
-OP.GG,Fiddlesticks has a Unknown% win rate and a Unknown% pick rate.,0.5859,Fiddlesticks,Unknown,Unknown
-OP.GG,Kayle has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kayle,Unknown,Unknown
-OP.GG,Master Yi has a Unknown% win rate and a Unknown% pick rate.,0.5859,Master Yi,Unknown,Unknown
-OP.GG,Alistar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Alistar,Unknown,Unknown
-OP.GG,Ryze has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ryze,Unknown,Unknown
-OP.GG,Sion has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sion,Unknown,Unknown
-OP.GG,Sivir has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sivir,Unknown,Unknown
-OP.GG,Soraka has a Unknown% win rate and a Unknown% pick rate.,0.5859,Soraka,Unknown,Unknown
-OP.GG,Teemo has a Unknown% win rate and a Unknown% pick rate.,0.5859,Teemo,Unknown,Unknown
-OP.GG,Tristana has a Unknown% win rate and a Unknown% pick rate.,0.5859,Tristana,Unknown,Unknown
-OP.GG,Warwick has a Unknown% win rate and a Unknown% pick rate.,0.5859,Warwick,Unknown,Unknown
-OP.GG,Nunu & Willump has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nunu & Willump,Unknown,Unknown
-OP.GG,Miss Fortune has a Unknown% win rate and a Unknown% pick rate.,0.4939,Miss Fortune,Unknown,Unknown
-OP.GG,Ashe has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ashe,Unknown,Unknown
-OP.GG,Tryndamere has a Unknown% win rate and a Unknown% pick rate.,0.5859,Tryndamere,Unknown,Unknown
-OP.GG,Jax has a Unknown% win rate and a Unknown% pick rate.,0.5859,Jax,Unknown,Unknown
-OP.GG,Morgana has a Unknown% win rate and a Unknown% pick rate.,0.5859,Morgana,Unknown,Unknown
-OP.GG,Zilean has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zilean,Unknown,Unknown
-OP.GG,Singed has a Unknown% win rate and a Unknown% pick rate.,0.5859,Singed,Unknown,Unknown
-OP.GG,Evelynn has a Unknown% win rate and a Unknown% pick rate.,0.5859,Evelynn,Unknown,Unknown
-OP.GG,Twitch has a Unknown% win rate and a Unknown% pick rate.,0.5859,Twitch,Unknown,Unknown
-OP.GG,Karthus has a Unknown% win rate and a Unknown% pick rate.,0.5859,Karthus,Unknown,Unknown
-OP.GG,Chogath has a Unknown% win rate and a Unknown% pick rate.,0.5859,Chogath,Unknown,Unknown
-OP.GG,Amumu has a Unknown% win rate and a Unknown% pick rate.,0.5859,Amumu,Unknown,Unknown
-OP.GG,Rammus has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rammus,Unknown,Unknown
-OP.GG,Anivia has a Unknown% win rate and a Unknown% pick rate.,0.5859,Anivia,Unknown,Unknown
-OP.GG,Shaco has a Unknown% win rate and a Unknown% pick rate.,0.5859,Shaco,Unknown,Unknown
-OP.GG,Dr. Mundo has a Unknown% win rate and a Unknown% pick rate.,0.5859,Dr. Mundo,Unknown,Unknown
-OP.GG,Sona has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sona,Unknown,Unknown
-OP.GG,Kassadin has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kassadin,Unknown,Unknown
-OP.GG,Irelia has a Unknown% win rate and a Unknown% pick rate.,0.5859,Irelia,Unknown,Unknown
-OP.GG,Janna has a Unknown% win rate and a Unknown% pick rate.,0.5859,Janna,Unknown,Unknown
-OP.GG,Gangplank has a Unknown% win rate and a Unknown% pick rate.,0.5859,Gangplank,Unknown,Unknown
-OP.GG,Corki has a Unknown% win rate and a Unknown% pick rate.,0.5859,Corki,Unknown,Unknown
-OP.GG,Karma has a Unknown% win rate and a Unknown% pick rate.,0.5859,Karma,Unknown,Unknown
-OP.GG,Taric has a Unknown% win rate and a Unknown% pick rate.,0.5859,Taric,Unknown,Unknown
-OP.GG,Veigar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Veigar,Unknown,Unknown
-OP.GG,Trundle has a Unknown% win rate and a Unknown% pick rate.,0.5859,Trundle,Unknown,Unknown
-OP.GG,Swain has a Unknown% win rate and a Unknown% pick rate.,0.5859,Swain,Unknown,Unknown
-OP.GG,Caitlyn has a Unknown% win rate and a Unknown% pick rate.,0.5859,Caitlyn,Unknown,Unknown
-OP.GG,Blitzcrank has a Unknown% win rate and a Unknown% pick rate.,0.5859,Blitzcrank,Unknown,Unknown
-OP.GG,Malphite has a Unknown% win rate and a Unknown% pick rate.,0.5859,Malphite,Unknown,Unknown
-OP.GG,Katarina has a Unknown% win rate and a Unknown% pick rate.,0.5859,Katarina,Unknown,Unknown
-OP.GG,Nocturne has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nocturne,Unknown,Unknown
-OP.GG,Maokai has a Unknown% win rate and a Unknown% pick rate.,0.5859,Maokai,Unknown,Unknown
-OP.GG,Renekton has a Unknown% win rate and a Unknown% pick rate.,0.5859,Renekton,Unknown,Unknown
-OP.GG,Jarvan IV has a Unknown% win rate and a Unknown% pick rate.,0.5859,Jarvan IV,Unknown,Unknown
-OP.GG,Elise has a Unknown% win rate and a Unknown% pick rate.,0.5859,Elise,Unknown,Unknown
-OP.GG,Orianna has a Unknown% win rate and a Unknown% pick rate.,0.5859,Orianna,Unknown,Unknown
-OP.GG,MonkeyKing has a Unknown% win rate and a Unknown% pick rate.,0.5859,MonkeyKing,Unknown,Unknown
-OP.GG,Brand has a Unknown% win rate and a Unknown% pick rate.,0.5859,Brand,Unknown,Unknown
-OP.GG,Lee Sin has a Unknown% win rate and a Unknown% pick rate.,0.0516,Lee Sin,Unknown,Unknown
-OP.GG,Vayne has a Unknown% win rate and a Unknown% pick rate.,0.5859,Vayne,Unknown,Unknown
-OP.GG,Rumble has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rumble,Unknown,Unknown
-OP.GG,Cassiopeia has a Unknown% win rate and a Unknown% pick rate.,0.5859,Cassiopeia,Unknown,Unknown
-OP.GG,Skarner has a Unknown% win rate and a Unknown% pick rate.,0.5859,Skarner,Unknown,Unknown
-OP.GG,Heimerdinger has a Unknown% win rate and a Unknown% pick rate.,0.5859,Heimerdinger,Unknown,Unknown
-OP.GG,Nasus has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nasus,Unknown,Unknown
-OP.GG,Nidalee has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nidalee,Unknown,Unknown
-OP.GG,Udyr has a Unknown% win rate and a Unknown% pick rate.,0.5859,Udyr,Unknown,Unknown
-OP.GG,Poppy has a Unknown% win rate and a Unknown% pick rate.,0.5859,Poppy,Unknown,Unknown
-OP.GG,Gragas has a Unknown% win rate and a Unknown% pick rate.,0.5859,Gragas,Unknown,Unknown
-OP.GG,Pantheon has a Unknown% win rate and a Unknown% pick rate.,0.5859,Pantheon,Unknown,Unknown
-OP.GG,Ezreal has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ezreal,Unknown,Unknown
-OP.GG,Mordekaiser has a Unknown% win rate and a Unknown% pick rate.,0.5859,Mordekaiser,Unknown,Unknown
-OP.GG,Yorick has a Unknown% win rate and a Unknown% pick rate.,0.5859,Yorick,Unknown,Unknown
-OP.GG,Akali has a Unknown% win rate and a Unknown% pick rate.,0.5859,Akali,Unknown,Unknown
-OP.GG,Kennen has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kennen,Unknown,Unknown
-OP.GG,Garen has a Unknown% win rate and a Unknown% pick rate.,0.5859,Garen,Unknown,Unknown
-OP.GG,Leona has a Unknown% win rate and a Unknown% pick rate.,0.5859,Leona,Unknown,Unknown
-OP.GG,Malzahar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Malzahar,Unknown,Unknown
-OP.GG,Talon has a Unknown% win rate and a Unknown% pick rate.,0.5859,Talon,Unknown,Unknown
-OP.GG,Riven has a Unknown% win rate and a Unknown% pick rate.,0.5859,Riven,Unknown,Unknown
-OP.GG,Kog'Maw has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kog'Maw,Unknown,Unknown
-OP.GG,Shen has a Unknown% win rate and a Unknown% pick rate.,0.5859,Shen,Unknown,Unknown
-OP.GG,Lux has a Unknown% win rate and a Unknown% pick rate.,0.5859,Lux,Unknown,Unknown
-OP.GG,Xerath has a Unknown% win rate and a Unknown% pick rate.,0.5859,Xerath,Unknown,Unknown
-OP.GG,Shyvana has a Unknown% win rate and a Unknown% pick rate.,0.5859,Shyvana,Unknown,Unknown
-OP.GG,Ahri has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ahri,Unknown,Unknown
-OP.GG,Graves has a Unknown% win rate and a Unknown% pick rate.,0.3818,Graves,Unknown,Unknown
-OP.GG,Fizz has a Unknown% win rate and a Unknown% pick rate.,0.5859,Fizz,Unknown,Unknown
-OP.GG,Volibear has a Unknown% win rate and a Unknown% pick rate.,0.5859,Volibear,Unknown,Unknown
-OP.GG,Rengar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rengar,Unknown,Unknown
-OP.GG,Varus has a Unknown% win rate and a Unknown% pick rate.,0.5859,Varus,Unknown,Unknown
-OP.GG,Nautilus has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nautilus,Unknown,Unknown
-OP.GG,Viktor has a Unknown% win rate and a Unknown% pick rate.,0.5859,Viktor,Unknown,Unknown
-OP.GG,Sejuani has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sejuani,Unknown,Unknown
-OP.GG,Fiora has a Unknown% win rate and a Unknown% pick rate.,0.5859,Fiora,Unknown,Unknown
-OP.GG,Ziggs has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ziggs,Unknown,Unknown
-OP.GG,Lulu has a Unknown% win rate and a Unknown% pick rate.,0.5859,Lulu,Unknown,Unknown
-OP.GG,Draven has a Unknown% win rate and a Unknown% pick rate.,0.5859,Draven,Unknown,Unknown
-OP.GG,Hecarim has a Unknown% win rate and a Unknown% pick rate.,0.5859,Hecarim,Unknown,Unknown
-OP.GG,Kha'Zix has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kha'Zix,Unknown,Unknown
-OP.GG,Darius has a Unknown% win rate and a Unknown% pick rate.,0.5859,Darius,Unknown,Unknown
-OP.GG,Jayce has a Unknown% win rate and a Unknown% pick rate.,0.5859,Jayce,Unknown,Unknown
-OP.GG,Lissandra has a Unknown% win rate and a Unknown% pick rate.,0.5859,Lissandra,Unknown,Unknown
-OP.GG,Diana has a Unknown% win rate and a Unknown% pick rate.,0.5859,Diana,Unknown,Unknown
-OP.GG,Quinn has a Unknown% win rate and a Unknown% pick rate.,0.5859,Quinn,Unknown,Unknown
-OP.GG,Syndra has a Unknown% win rate and a Unknown% pick rate.,0.5859,Syndra,Unknown,Unknown
-OP.GG,Aurelion Sol has a Unknown% win rate and a Unknown% pick rate.,0.5859,Aurelion Sol,Unknown,Unknown
-OP.GG,Kayn has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kayn,Unknown,Unknown
-OP.GG,Zoe has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zoe,Unknown,Unknown
-OP.GG,Zyra has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zyra,Unknown,Unknown
-OP.GG,Kai'Sa has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kai'Sa,Unknown,Unknown
-OP.GG,Seraphine has a Unknown% win rate and a Unknown% pick rate.,0.5859,Seraphine,Unknown,Unknown
-OP.GG,Gnar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Gnar,Unknown,Unknown
-OP.GG,Zac has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zac,Unknown,Unknown
-OP.GG,Yasuo has a Unknown% win rate and a Unknown% pick rate.,0.5859,Yasuo,Unknown,Unknown
-OP.GG,Velkoz has a Unknown% win rate and a Unknown% pick rate.,0.5859,Velkoz,Unknown,Unknown
-OP.GG,Taliyah has a Unknown% win rate and a Unknown% pick rate.,0.5859,Taliyah,Unknown,Unknown
-OP.GG,Camille has a Unknown% win rate and a Unknown% pick rate.,0.5859,Camille,Unknown,Unknown
-OP.GG,Akshan has a Unknown% win rate and a Unknown% pick rate.,0.5859,Akshan,Unknown,Unknown
-OP.GG,Belveth has a Unknown% win rate and a Unknown% pick rate.,0.5859,Belveth,Unknown,Unknown
-OP.GG,Braum has a Unknown% win rate and a Unknown% pick rate.,0.5859,Braum,Unknown,Unknown
-OP.GG,Jhin has a Unknown% win rate and a Unknown% pick rate.,0.5859,Jhin,Unknown,Unknown
-OP.GG,Kindred has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kindred,Unknown,Unknown
-OP.GG,Zeri has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zeri,Unknown,Unknown
-OP.GG,Jinx has a Unknown% win rate and a Unknown% pick rate.,0.5859,Jinx,Unknown,Unknown
-OP.GG,Tahm Kench has a Unknown% win rate and a Unknown% pick rate.,0.5859,Tahm Kench,Unknown,Unknown
-OP.GG,Briar has a Unknown% win rate and a Unknown% pick rate.,0.5859,Briar,Unknown,Unknown
-OP.GG,Viego has a Unknown% win rate and a Unknown% pick rate.,0.5859,Viego,Unknown,Unknown
-OP.GG,Senna has a Unknown% win rate and a Unknown% pick rate.,0.5859,Senna,Unknown,Unknown
-OP.GG,Lucian has a Unknown% win rate and a Unknown% pick rate.,0.5859,Lucian,Unknown,Unknown
-OP.GG,Zed has a Unknown% win rate and a Unknown% pick rate.,0.5859,Zed,Unknown,Unknown
-OP.GG,Kled has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kled,Unknown,Unknown
-OP.GG,Ekko has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ekko,Unknown,Unknown
-OP.GG,Qiyana has a Unknown% win rate and a Unknown% pick rate.,0.5859,Qiyana,Unknown,Unknown
-OP.GG,Vi has a Unknown% win rate and a Unknown% pick rate.,0.5859,Vi,Unknown,Unknown
-OP.GG,Aatrox has a Unknown% win rate and a Unknown% pick rate.,0.5859,Aatrox,Unknown,Unknown
-OP.GG,Nami has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nami,Unknown,Unknown
-OP.GG,Azir has a Unknown% win rate and a Unknown% pick rate.,0.5859,Azir,Unknown,Unknown
-OP.GG,Yuumi has a Unknown% win rate and a Unknown% pick rate.,0.5859,Yuumi,Unknown,Unknown
-OP.GG,Samira has a Unknown% win rate and a Unknown% pick rate.,0.5859,Samira,Unknown,Unknown
-OP.GG,Thresh has a Unknown% win rate and a Unknown% pick rate.,0.5859,Thresh,Unknown,Unknown
-OP.GG,Illaoi has a Unknown% win rate and a Unknown% pick rate.,0.5859,Illaoi,Unknown,Unknown
-OP.GG,Rek'Sai has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rek'Sai,Unknown,Unknown
-OP.GG,Ivern has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ivern,Unknown,Unknown
-OP.GG,Kalista has a Unknown% win rate and a Unknown% pick rate.,0.5859,Kalista,Unknown,Unknown
-OP.GG,Bard has a Unknown% win rate and a Unknown% pick rate.,0.5859,Bard,Unknown,Unknown
-OP.GG,Rakan has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rakan,Unknown,Unknown
-OP.GG,Xayah has a Unknown% win rate and a Unknown% pick rate.,0.5859,Xayah,Unknown,Unknown
-OP.GG,Ornn has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ornn,Unknown,Unknown
-OP.GG,Sylas has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sylas,Unknown,Unknown
-OP.GG,Neeko has a Unknown% win rate and a Unknown% pick rate.,0.5859,Neeko,Unknown,Unknown
-OP.GG,Aphelios has a Unknown% win rate and a Unknown% pick rate.,0.5859,Aphelios,Unknown,Unknown
-OP.GG,Rell has a Unknown% win rate and a Unknown% pick rate.,0.5859,Rell,Unknown,Unknown
-OP.GG,Pyke has a Unknown% win rate and a Unknown% pick rate.,0.5859,Pyke,Unknown,Unknown
-OP.GG,Vex has a Unknown% win rate and a Unknown% pick rate.,0.5859,Vex,Unknown,Unknown
-OP.GG,Yone has a Unknown% win rate and a Unknown% pick rate.,0.5859,Yone,Unknown,Unknown
-OP.GG,Ambessa has a Unknown% win rate and a Unknown% pick rate.,0.5859,Ambessa,Unknown,Unknown
-OP.GG,Mel has a Unknown% win rate and a Unknown% pick rate.,0.5859,Mel,Unknown,Unknown
-OP.GG,Sett has a Unknown% win rate and a Unknown% pick rate.,0.5859,Sett,Unknown,Unknown
-OP.GG,Lillia has a Unknown% win rate and a Unknown% pick rate.,0.5859,Lillia,Unknown,Unknown
-OP.GG,Gwen has a Unknown% win rate and a Unknown% pick rate.,0.5859,Gwen,Unknown,Unknown
-OP.GG,Renata Glasc has a Unknown% win rate and a Unknown% pick rate.,0.5859,Renata Glasc,Unknown,Unknown
-OP.GG,Aurora has a Unknown% win rate and a Unknown% pick rate.,0.5859,Aurora,Unknown,Unknown
-OP.GG,Nilah has a Unknown% win rate and a Unknown% pick rate.,0.5859,Nilah,Unknown,Unknown
-OP.GG,K'Sante has a Unknown% win rate and a Unknown% pick rate.,0.5859,K'Sante,Unknown,Unknown
-OP.GG,Smolder has a Unknown% win rate and a Unknown% pick rate.,0.5859,Smolder,Unknown,Unknown
-OP.GG,Milio has a Unknown% win rate and a Unknown% pick rate.,0.5859,Milio,Unknown,Unknown
-OP.GG,Hwei has a Unknown% win rate and a Unknown% pick rate.,0.5859,Hwei,Unknown,Unknown
-OP.GG,Naafiri has a Unknown% win rate and a Unknown% pick rate.,0.5859,Naafiri,Unknown,Unknown
+Maybe I'm just ranting, maybe im just older and have become a shittier gamer, or maybe I just am old and crotchety and dont like change but if you ask me I would rather a GC or even Wii level graphics game that's complete, doesnt need constant updates and always has a way to make you keep on paying for it.",0.979
+Reddit,There were about another dozen boxes right up front ,0.0
+Twitter,"@abare_retsu Exactly sjsjsjsnks like yeah sure a company's game may be dissatisfying but it's not a new thing... many companies have released flops, it's just that we have less games being released to balance those flops out",-0.6597
+Twitter,"Life is like a high-stakes poker game where you have to balance risk and reward, making calculated moves to increase your chances of success, but what happens",0.714
+Twitter,"The game of decentralized finance is far from over, but the real challenge lies in finding a balance between risk and reward",0.0387
+Twitter,"Maximizing returns on investment requires a delicate balance between calculated risks and strategic maneuverings, like navigating a high-stakes game of financi",0.1531
+Twitter,"Maximizing returns without sacrificing risk is a delicate balance in high-stakes investing, where strategy meets data-driven insights to stay ahead of the game",0.2533
+Twitter,"Risk and reward entwined like a tightrope walker's balance, making each move a calculated gamble to reach the top of the financial game",0.7184
+Twitter,The invisible hand of supply and demand just shifted the balance of power in the financial game,0.4019
+Twitter,"Life's like a high-stakes poker game where you need to balance risk and reward, just like investors who dive into new ventures",0.765
+Twitter,"@CryptoTony__ Liquidity's the lifeblood of this game, @CryptoTony__. You’re spot on. After a big move or a sharp dump, it’s like the market's taking a breather, finding its footing. Those counter-trend moves? They’re the market’s way of flirting with balance before diving deeper.",0.25
+Twitter,@StellaNoxEclair Yeah he's vastly different in pretty much every game until they struck a pretty good balance in DMC5. More than the personality having him get voiced by the guy who voiced the OTHER protagonist is a baffling choice and just really fucking uncanny.,0.8591
+Twitter,"Risk and reward are two sides of the same coin, learn to balance them for a game changing financial outcome",0.3818
+Twitter,"Risk is inherent in all high-stakes pursuits To succeed in the game of finance, one must balance calculated risk-taking with strategic patience",0.2732
+Twitter,"@AmandaSimm21327 @hubdotxyz Extreme fear? Time to take action, not hide! Here's the game plan:
+
+1. Portfolio Checkup: Make sure you're not overexposed. Balance is key!
+2. DYOR: Dive into the fundamentals. Know what you're holding and why.
+3. DCA: Steady buys cut through the noise, keeping you cool when… https://t.co/A7DrnazeSP",-0.194
+Twitter,"Risk is just another word for opportunity, and the game of high stakes trading has always been about finding the right balance between chance and strategy",0.4019
+Twitter,"@dearrchasee @PopBase @Drake @gracieabrams Discover the fun of Shein game! You could gain £100 wallet balance and £100 voucher. Enter code ""2c82dwah"" in the app to play.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.8553
+Twitter,Life is like a high-stakes poker game where you need to balance risk and reward to come out on top,0.7096
+Twitter,"Risk and reward play a high-stakes game in the world of yield farming, where savvy investors must balance volatility for potential returns",0.6124
+Twitter,"Life is like a high-stakes poker game where you need to balance risk and reward, but the real prize isn't winning, it's staying one step ahead of the odds",0.5165
+Twitter,"@AkhirQHaya @BleacherReport 👍Save money while you shop! Search for game code ""2c82dwah"" in Shein app. You might score £100 in wallet balance and £100 voucher.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.0
+Twitter,"Risk and reward, a delicate balance in the high-stakes game of financial strategy",0.4215
+Twitter,"Risk and reward entwined like a well-crafted puzzle, success hinges on finding the perfect balance in the ever-changing game of financial risk management",0.886
+Twitter,"@NotABBWLover @icespicee_ Shein offers a game filled with rewards! You could score £100 wallet balance and £100 voucher. Input code ""2c82dwah"" in the app to get started.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.5255
+Twitter,"Risk and reward, like a high-stakes game of poker, lies in striking the perfect balance between calculated bets and sharp instincts",0.7184
+Twitter,Risk and Reward: The High-Stakes Game of Trading Futures Contracts Requires a Masterful Balance Between Speculation and Pragmatism,0.3818
+Twitter,"🟥 Burnley defender CJ Egan-Riley played every minute of their recent 12-game run without conceding. He now faces a three-match suspension if his red card for violent conduct is upheld. #lufc 
+
+https://t.co/t8Tvgvp9Bk",-0.2732
+Twitter,"Game of limits: A player's best bet is to strike a balance between risk and return, lest they suffer from financial roulette",-0.2263
+Twitter,"@J0nesToChina @TheDunkCentral 🍭Support Shein game with me! Just enter code ""2c82dwah"" in the app to dive straight in. There’s a chance for £100 wallet balance and £100 voucher.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.4926
+Twitter,"@PrizePicks @PopBase I’ve played Shein game and won £100 wallet balance and £100 coupon. Download the app now, enter code ""2c82dwah"", and let’s have fun.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.8555
+Twitter,"@Jimmyyweb3 @BleacherReport 🍰Let’s make Shein game even better! Enter code ""2c82dwah"" in the app for a quick start. You could receive £100 wallet balance and £100 coupon.
+#SHEIN #sheinuk #uk #sheindiscountcode #SHEINContest #SheinSteals #shein #sheinmethod #codeforcode #CashRewards #freemoney",0.4926
+Twitter,Risk and reward on the same team: A well-calibrated portfolio balance is key to long-term success in the high-stakes game of volatility management,0.743
+Twitter,"Life is like a high-stakes poker game where you need to balance risk and reward, but the real prize isn't winning, it's staying one step ahead of the odds",0.5165
+Twitter,"Game theory meets high-stakes betting, where the best strategy is a delicate balance of risk and reward, outmaneuvering opponents to claim the ultimate prize",0.8834
+Twitter,"Risk and Reward are two sides of the same game, always navigating for that perfect balance to maximize returns",0.743
+Twitter,"Risk and reward entwined like a high-stakes game of poker, the future of finance hangs in the balance as innovators push boundaries",0.6249
+Twitter,The invisible hand of supply and demand is quietly shifting the balance of financial power in a new game of high-stakes risk management,0.1531
+Twitter,Risk and Reward: The delicate balance between taking calculated bets on high-stakes financial opportunities and protecting your hard-earned gains is a game of,0.7783
+Twitter,"Life's a high-stakes game where winners trade risk for rewards and losers bet on stability, but true freedom lies in finding a balance between the two",0.7992
+Twitter,Your wallet is like a team's roster - it needs a balance of assets to win the game,0.7906
+Twitter,"Gear up gamers and hit the the tracks in a game that'll test your skill, balance, and racing abilities can you conquer the toughest obstacles and become the ultimate rider? let’s find out in TRIAL XTREME 🏍️💨
+
+NB : the clips in the content is the web2 version https://t.co/BALVj3EA1S",-0.2263
+Twitter,"Game of high stakes: where risk and reward entwine like a delicate balance on a razor's edge, players must navigate the unseen currents to emerge victorious",0.6486
+Twitter,Imagine trying to balance a game with ALL these characters. https://t.co/t0vrKnkpmY,0.0
+Twitter,Game of risk and reward: Players must balance calculated bets against unpredictable outcomes to emerge victorious,0.3818
+Twitter,"Gambling with risk and rewards, the high-stakes game of yield farming continues to intrigue investors, as they balance their bets on the future of decentralize",0.25
+Twitter,"Your wallet's balance is just a starting point, the real game begins when you start building wealth through calculated risk and strategic moves",0.2732
+Twitter,"Risk and reward, like a high-stakes game of poker, lies in striking the perfect balance between calculated bets and sharp instincts",0.7184
+Twitter,@maurice_moens Would love to print and play the balance game 😍,0.765
+Twitter,Game of strategy: Players must balance risk and reward to corner the niche of rare digital collectibles that are about to disrupt the traditional sports memora,0.3818
+Twitter,"Game-changers often hide in plain sight of the board, where strategic moves can tip the balance of power, and fortunes are made or lost",-0.4588
+Twitter,"Game of skill over game of chance: The emerging trend of decentralized trading platforms is shifting the balance between risk and reward, where only the most s",0.5574
+Twitter,The game of risk and reward is a delicate balance where fortune favors the bold but also swiftly turns its back on the careless investor who thinks they can ou,0.4118

@@ -23,7 +23,8 @@ def main():
     reddit_data = scrape_reddit()
     # twitter_data = scrape_twitter()
     opgg_data = scrape_opgg()
-    feedback_data = reddit_data
+    print("OP.GG Data:", opgg_data)
+    feedback_data = reddit_data + opgg_data
 
     # 3) Process sentiment
     processed_data = process_feedback(feedback_data)
