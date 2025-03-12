@@ -21,9 +21,9 @@ def main():
 
     # 2) Scrape data
     reddit_data = scrape_reddit()
-    twitter_data = scrape_twitter()
+    # twitter_data = scrape_twitter()
     opgg_data = scrape_opgg()
-    feedback_data = reddit_data + twitter_data
+    feedback_data = reddit_data
 
     # 3) Process sentiment
     processed_data = process_feedback(feedback_data)
