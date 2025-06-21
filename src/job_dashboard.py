@@ -103,6 +103,45 @@ def job_analysis_page():
         # Convert to DataFrame
         df = pd.DataFrame(jobs)
 
+         # Format salary column to remove JSON format
+        def format_salary(salary_data):
+            """Format salary data into a readable string"""
+            if not salary_data or salary_data == "N/A":
+                return "N/A"
+            
+            try:
+                # If it's already a string, return as is
+                if isinstance(salary_data, str):
+                    return salary_data
+                
+                # If it's a dictionary with min/max values
+                if isinstance(salary_data, dict):
+                    min_val = salary_data.get('min', 0)
+                    max_val = salary_data.get('max', 0)
+                    salary_type = salary_data.get('type', 'hourly')
+                    
+                    # Handle different cases
+                    if max_val == -1 and min_val > 0:
+                        return f"${min_val}+ per {salary_type}"
+                    elif min_val == -1 and max_val > 0:
+                        return f"Up to ${max_val} per {salary_type}"
+                    elif min_val > 0 and max_val > 0 and max_val != -1:
+                        return f"${min_val} - ${max_val} per {salary_type}"
+                    elif min_val > 0:
+                        return f"${min_val}+ per {salary_type}"
+                    else:
+                        return "Salary not specified"
+                
+                return str(salary_data)
+            
+            except Exception as e:
+                print(f"Error formatting salary {salary_data}: {e}")
+                return "N/A"
+        
+        # Apply salary formatting to the dataframe
+        if 'salary' in df.columns:
+            df['salary'] = df['salary'].apply(format_salary)
+
          # Extract all URLs into an array
         job_urls = []
         for job in jobs:
