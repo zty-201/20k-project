@@ -1,7 +1,6 @@
-"""Configuration loader.
+"""Configuration loader for Gemini.
 
-Reads environment variables (optionally from a .env file)
-and provides typed access throughout the code‑base.
+Reads GEMINI_API_KEY or GOOGLE_API_KEY from environment (.env supported).
 """
 from __future__ import annotations
 import os
@@ -12,13 +11,17 @@ load_dotenv()
 
 @dataclass(frozen=True, slots=True)
 class Settings:
-    openai_api_key: str = os.environ.get("OPENAI_API_KEY", "")
-    openai_api_base: str | None = os.environ.get("OPENAI_API_BASE")
+    gemini_api_key: str | None = (
+        os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+    )
 
 settings = Settings()
 
-if not settings.openai_api_key:
+if settings.gemini_api_key:
+    os.environ.setdefault("GOOGLE_API_KEY", settings.gemini_api_key)
+
+if not settings.gemini_api_key:
     raise RuntimeError(
-        "OPENAI_API_KEY not found. "
+        "GEMINI_API_KEY (or GOOGLE_API_KEY) not found. "
         "Create a .env file (see .env.example) or export the variable."
     )

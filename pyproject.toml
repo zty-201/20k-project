@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "openai-rag-agent"
+name = "gemini-rag-agent"
 version = "0.1.0"
-description = "Retrieval-Augmented Generation agent with evaluation harness."
+description = "Retrieval-Augmented Generation agent powered by Google Gemini"
 authors = ["Zhang TongYan <example@example.com>"]
 license = "MIT"
 readme = "README.md"
@@ -9,12 +9,11 @@ packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-openai = "^1.0"
 langchain = "^0.1.0"
+langchain-community = "^0.1.0"
+langchain-google-genai = "^0.1.0"
+google-generativeai = "^0.3.0"
 python-dotenv = "^1.0"
-numpy = "^1.26"
-rich = "^13.7"
-tiktoken = "^0.6"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0"

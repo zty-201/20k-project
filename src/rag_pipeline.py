@@ -1,10 +1,8 @@
-"""RAG pipeline core.
-
-retrieve(query) → prompt(question, context) → openai_chat → answer
-"""
+"""RAG pipeline core powered by Gemini."""
 from __future__ import annotations
 from typing import List
-from langchain_community.chat_models import ChatOpenAI
+import google.generativeai as genai
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import PromptTemplate
 from .config import settings
@@ -21,11 +19,13 @@ Question:
 Answer briefly yet completely:""",
 )
 
+genai.configure(api_key=settings.gemini_api_key)
+
 class RAGPipeline:
-    def __init__(self, index_path: str, k: int = 4, model: str = "gpt-4o-mini"):
+    def __init__(self, index_path: str, k: int = 4, model: str = "gemini-2.5-flash"):
         self.store = FAISS.load_local(index_path, embeddings=None, allow_dangerous_deserialization=True)
         self.embed = self.store.embedding_function
-        self.chat = ChatOpenAI(api_key=settings.openai_api_key, model=model)
+        self.chat = ChatGoogleGenerativeAI(model=model, temperature=0.2)
         self.k = k
 
     def _retrieve(self, query: str) -> List[str]:

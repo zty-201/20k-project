@@ -1,15 +1,10 @@
-"""Document ingestion utilities.
-
-Example:
-    from ingest import ingest_directory
-    ingest_directory("data/", "index.faiss")
-"""
+"""Document ingestion utilities using Gemini embeddings."""
 from __future__ import annotations
 import pathlib, logging
 from typing import Iterable
-import langchain_community.vectorstores as vs
-from langchain_community.embeddings import OpenAIEmbeddings
-from config import settings
+from langchain_community.vectorstores import FAISS
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from .config import settings
 
 log = logging.getLogger(__name__)
 
@@ -20,18 +15,19 @@ def all_files(root: str | pathlib.Path, suffixes: tuple[str, ...] = (".txt", ".m
             yield p
 
 def ingest_directory(directory: str | pathlib.Path, index_path: str | pathlib.Path) -> None:
-    """Ingests every text-like file under *directory* and writes a FAISS index."""
+    """Ingests text files under *directory* and writes a FAISS index."""
     directory = pathlib.Path(directory)
     index_path = pathlib.Path(index_path)
 
     log.info("Scanning %s ...", directory.resolve())
-    docs = []
-    for file in all_files(directory):
-        docs.append(file.read_text(encoding="utf-8"))
+    docs = [file.read_text(encoding="utf-8") for file in all_files(directory)]
     if not docs:
         raise ValueError("No text files found.")
 
-    embeddings = OpenAIEmbeddings(api_key=settings.openai_api_key, model="text-embedding-3-small")
-    store = vs.FAISS.from_texts(docs, embeddings)
+    embeddings = GoogleGenerativeAIEmbeddings(
+        api_key=settings.gemini_api_key,
+        model="models/embedding-001"
+    )
+    store = FAISS.from_texts(docs, embeddings)
     store.save_local(str(index_path.with_suffix("")))
     log.info("Saved index to %s", index_path)
