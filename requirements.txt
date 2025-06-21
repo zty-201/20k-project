@@ -1,10 +1,4 @@
-praw
-tweepy
-nltk
-scikit-learn
-matplotlib
-streamlit
-wordcloud
-sqlite-utils
-selenium
-webdriver-manager
+openai>=1.0
+langchain>=0.1.0
+python-dotenv>=1.0
+jupyterlab>=4.0
