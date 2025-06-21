@@ -1,4 +1,12 @@
-openai>=1.0
-langchain>=0.1.0
-python-dotenv>=1.0
+# --- Core OpenAI / RAG stack ---
+openai>=1.0                 # OpenAI REST/stream SDK
+langchain>=0.1.0            # LangChain core abstractions
+langchain-community>=0.1.0  # split-out integrations (vector stores, loaders, etc.)
+langchain-openai>=0.1.0     # split-out OpenAI chat/embedding wrappers
+tiktoken>=0.6               # fast tokenizer both SDKs rely on
+python-dotenv>=1.0          # loads .env into os.environ
+
+# --- Dev / notebook tooling ---
 jupyterlab>=4.0
+pytest>=8.0                 # unit-test runner
+pytest-cov>=5.0             # coverage reports (optional)

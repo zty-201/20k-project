@@ -7,7 +7,7 @@ from typing import List
 from langchain_community.chat_models import ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import PromptTemplate
-from config import settings
+from .config import settings
 
 _PROMPT = PromptTemplate(
     input_variables=["context", "question"],
