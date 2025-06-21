@@ -58,20 +58,15 @@ def run_command(command):
 
 
 
-def GetUpdatedResume(prompt, input_resume_folder, output_resume_folder, output_resume_name):
+def GetUpdatedResume(prompt, input_resume_data, output_resume_folder, output_resume_name):
     load_dotenv()
     GEMINI_API_KEY = environ["GEMINI_API_KEY"]
     client = genai.Client(api_key=GEMINI_API_KEY)
-    resume_path = GetFirstFile(input_resume_folder)
-    if resume_path == None : 
-        print("Add your resume in pdf format into InputResume folder")
-        return False
-    resume_data = GetFileData(resume_path)
     response = client.models.generate_content(
         model="gemini-2.5-flash",
         contents=[
             types.Part.from_bytes(
-            data=resume_data,
+            data=input_resume_data,
             mime_type='application/pdf',
         ),
         prompt])
@@ -82,7 +77,7 @@ def GetUpdatedResume(prompt, input_resume_folder, output_resume_folder, output_r
     last_bracket = resume_html.rfind('>')
     if first_bracket != -1 and last_bracket != -1 and first_bracket < last_bracket :
         resume_html = resume_html[first_bracket : last_bracket+1]
-
+    print("Printing html: " + resume_html)
     create_directory_if_not_exists(output_resume_folder)
     weasyprint.HTML(string = resume_html).write_pdf(output_resume_folder + "/" + output_resume_name)
 

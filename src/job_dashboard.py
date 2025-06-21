@@ -4,10 +4,19 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 from job_scraper import IndeedJobScraper, get_mock_job_data
-from pathlib import Path    
+from pathlib import Path  
+
+#send and receive resume to/from LLM.
+import ai_send_receive_pdf as AI
 
 # Load environment variables
 load_dotenv()
+
+def GetNewResume(job_url, i) : 
+    prompt = "Finetune this resume for this job posting: " + job_url + "  Only return the resume in html format."
+    #if st.session_state["resume_bytes"].len() == 0 :return False
+    AI.GetUpdatedResume(prompt, st.session_state["resume_bytes"], "OutputResume", str(i) + "UpdatedResume.pdf")
+    print("Successful")
 
 def job_analysis_page():
     st.title("Job Market Analysis Dashboard")
@@ -229,6 +238,7 @@ def job_analysis_page():
             st.subheader("📋 Job Details & Links")
             
             for i, job in enumerate(jobs):
+                GetNewResume(job.get('url'), i)
                 with st.expander(f"🔍 {job.get('title', 'Unknown')} - {job.get('company', 'Unknown')}"):
                     col1, col2 = st.columns(2)
                     
@@ -244,7 +254,14 @@ def job_analysis_page():
                         # Add clickable link
                         if job.get('url') and job.get('url') != 'N/A':
                             st.link_button("🔗 View Job Posting", job.get('url'))
-                    
+                        st.download_button(
+                            label = "Download Updated Resume",
+                            data = open("OutputResume/" + str(i) + "UpdatedResume.pdf", "rb").read(),
+                            file_name = "UpdatedResume.pdf",
+                            mime = "application/pdf"
+                        )
+
+
                     # Show description if available
                     if job.get('description') and job.get('description') != 'N/A':
                         st.write("**Description:**")
