@@ -15,3 +15,5 @@ black>=24.3                       # pre-commit formatting (if you enabled the ho
 isort>=5.13
 flake8>=7.0
 pypdf>=3.9
+arize-phoenix[langchain]>=2.7
+openinference-instrumentation-langchain>=0.2.1
