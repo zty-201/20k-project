@@ -14,3 +14,4 @@ pytest-cov>=5.0                   # optional: coverage reports
 black>=24.3                       # pre-commit formatting (if you enabled the hook)
 isort>=5.13
 flake8>=7.0
+pypdf>=3.9

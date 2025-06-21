@@ -5,6 +5,6 @@
     "\\src",
     "\\tests"
   ],
-  "SelectedNode": "\\.env.example",
+  "SelectedNode": "\\src\\job_dashboard.py",
   "PreviewInSolutionExplorer": false
 }

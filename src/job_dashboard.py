@@ -4,6 +4,7 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 from job_scraper import IndeedJobScraper, get_mock_job_data
+from pathlib import Path    
 
 # Load environment variables
 load_dotenv()
@@ -19,7 +20,7 @@ def job_analysis_page():
     auto_api_key = os.getenv('HASDATA_API_KEY')
     
     if auto_api_key:
-        st.sidebar.success("✅ API Key loaded from environment")
+        st.sidebar.success(" API Key loaded from environment")
         use_env_key = st.sidebar.checkbox("Use environment API key", value=True)
         
         if use_env_key:
@@ -46,12 +47,37 @@ def job_analysis_page():
     keywords = st.sidebar.text_input("Job Keywords", value="python developer")
     location = st.sidebar.text_input("Location", value="Remote")
     limit = st.sidebar.slider("Max Jobs to Scrape", 5, 50, 20)
+   
     
     # Additional filters
     st.sidebar.subheader("Filters")
     filter_keywords = st.sidebar.text_area("Additional Keywords (one per line)")
     remote_only = st.sidebar.checkbox("Remote Only")
-    
+
+    # --- resume upload --------------------------------------------
+    st.sidebar.subheader("Upload resume")
+    resume_file = st.sidebar.file_uploader(
+        "PDF only, max ≈ 10 MB",
+        type=["pdf"],
+        help="Attach your resume so we can tailor suggestions",
+    )
+
+    if resume_file is not None:
+        # Cache the bytes so other pages/functions can use them
+        st.session_state["resume_bytes"] = resume_file.getvalue()    # bytes
+        st.session_state["resume_name"] = resume_file.name
+
+        # Persist to disk if you need a physical file later
+        save_path = Path("uploads") / resume_file.name
+        save_path.parent.mkdir(exist_ok=True)
+        save_path.write_bytes(st.session_state["resume_bytes"])
+
+        st.sidebar.success(f" Uploaded {resume_file.name}")
+    # -------------------------------------------------------------------
+
+    # use this later somewhere 
+    resume = st.session_state.get("resume_text", "")
+
     # Search button
     if st.sidebar.button("Search Jobs"):
         if use_mock_data:
