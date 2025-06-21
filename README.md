@@ -37,3 +37,17 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ---
 © 2025 Zhang TongYan – released under the MIT License.
+
+## Development environment
+
+We use **Poetry** for dependency management & virtualenv creation:
+
+```bash
+poetry install
+poetry run pre-commit install  # set up git hooks
+poetry run pytest              # run tests
+```
+
+Alternatively, you can still `pip install -r requirements.txt` if preferred.
+
+The packaged **.env.example** shows which environment variables you need to supply.
