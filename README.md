@@ -14,6 +14,15 @@ cp .env.example .env        # add your GEMINI_API_KEY
 pytest -q                   # run unit tests
 jupyter lab
 ```
+## Collaborator & Author
+
+Zhang TongYan
+
+Anson Teng 
+
+Joel Jie Lee
+
+Benjamin Lau Rey Jun
 
 ## Directory layout
 * **notebooks/** – walkthrough notebook  
